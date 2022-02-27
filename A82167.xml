@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Hollanders touching the late King, and the commonwealth of England: with the granting forth new letters of mart by the States General against all English ships whatsoever: and the beating and reviling of divers English gentlemen at the Hague. Also the motion of the Dutch fleet Northwards with an hundred and seven sail of men of war, to find out the English navy; their taking of two English ships, and burning another near Scarborough. Likewise, the condition of affairs in France, and the taking of two hundred men and horse of the Prince of Conde's forces, near St. Clow: with the march of General Thurenne against the Spanish army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82167</idno>
+            <idno type="STC">Wing D689</idno>
+            <idno type="STC">Thomason E671_15</idno>
+            <idno type="STC">ESTC R207080</idno>
+            <idno type="EEBO-CITATION">99866152</idno>
+            <idno type="PROQUEST">99866152</idno>
+            <idno type="VID">118416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82167)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118416)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E671[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Hollanders touching the late King, and the commonwealth of England: with the granting forth new letters of mart by the States General against all English ships whatsoever: and the beating and reviling of divers English gentlemen at the Hague. Also the motion of the Dutch fleet Northwards with an hundred and seven sail of men of war, to find out the English navy; their taking of two English ships, and burning another near Scarborough. Likewise, the condition of affairs in France, and the taking of two hundred men and horse of the Prince of Conde's forces, near St. Clow: with the march of General Thurenne against the Spanish army.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Fronde --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118416:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> DECLARATION OF THE HOLLANDERS <hi>TOVCHING</hi> The late King, and the Commonwealth of England: With the granting forth new Letters of Mart by the States General againſt all Engliſh ſhips whatſoever: And the beating and reviling of divers Engliſh Gentlemen at the Hague.</p>
+            <p>Alſo the Motion of the Dutch Fleet Northwards with an hundred and ſeven Sail of Men of War, to find out the Engliſh Navy; their taking of two Engliſh ſhips, and burning another near Scarborough.</p>
+            <p>LIKEWISE, The Condition of Affairs in France, and the taking of Two hundred Men and Horſe of the Prince of Conde's for<g ref="char:EOLhyphen"/>ces, near St. Clow: With the march of Gene<g ref="char:EOLhyphen"/>ral <hi>Thurenne</hi> againſt the Spaniſh Army.</p>
+            <p>
+               <add>July 23</add> 
+               <hi>LONDON:</hi> Printed for <hi>D. G.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118416:2"/>
+            <pb n="3" facs="tcp:118416:2"/>
+            <head>THE DECLARATION Of the HOLLANDERS Touching The late King and the Common-wealth of England: with the States granting Letters of Mart againſt the Engliſh.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SInce the burning down of the Town-houſe in Am<g ref="char:EOLhyphen"/>ſterdam, nothing hath been heard almoſt but mour<g ref="char:EOLhyphen"/>ning and lamentation, with railing againſt the Go<g ref="char:EOLhyphen"/>vernours; where though the loſſe be not ſo much as was before conceived yet it will be great, and much money will be loſt. They know not now where to truſt their moneys, fire hath conſumed much at home, and the Eng<g ref="char:EOLhyphen"/>liſh
+<pb n="4" facs="tcp:118416:3"/>play their parts abroad; yet do they wiſh the Eng<g ref="char:EOLhyphen"/>liſh did no more miſchief to them then the fire; howe<g ref="char:EOLhyphen"/>ver ſo many loſſes one upon another makes many of our Merchants to break. Trading begins to decay, and will undoutedly ceaſe, if there be not a ſudden remedy; for thoſe that having any thing to loſe will forbear to trade, and no Goods are entred, but all is ſtill, and is not po<g ref="char:EOLhyphen"/>verty and miſery the end of this? This makes the people tumultuous and outragious threatning death to their Go<g ref="char:EOLhyphen"/>vernours for their tediouſneſs in the publick affairs, and ſay, they have had an opportunity and would not lay hold thereon. To adde to this dejection of their ſpirits, reports fly about the Town, and indeed about all the Country, that the Engliſh are gone Northwards, with 70 ſail of ſhips manned with 16000 men, ſo that now they fear their Herring Buſſes, and Eaſt India Fleet, not onely poverty, but ſcarcity two. Now they begin to ſet all out to ſea they can get together for defence. Many wiſh for peace, and ſay, <hi>That it were better to yeeld to ſomething, then to enter into a war with England, and loſe all.</hi> But as many are of a contrary temper, and roar out revenge; we hope (ſay they) <hi>Holland ſhall bring forth that rod that ſhall revenge the innocent bloud of the late King Charls, and be the ſcourge in the Hand of God to puniſh the inſa<g ref="char:EOLhyphen"/>tiable covetouſneſſe of the Engliſh Common-wealth for ſu<g ref="char:EOLhyphen"/>periority, for which we are making great preparations at Sea.</hi> And not onely their tongues, but their pens are bu<g ref="char:EOLhyphen"/>ſie in railing againſt the Engliſh (not onely in proſe, but in verſe too) calling them Devils, Wolves, Murtherers, Baſtards, Dogs, and what not? Something they would be ſeen to do as well as to ſay; for the other day three Engliſh Gentlemen walking out of the Hague in the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve<g ref="char:EOLhyphen"/>ning, were ſet upon by many of the Dutch, wh<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them up and down beating and reviling them, <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:118416:3"/>them Regicides, Serpent-tails, <hi>&amp;c.</hi> a<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> which paſſeth unreg<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rded. It is noiſed abroad that we ſhall have the Prince of Orange in play again; and that the City of Amſterdam is moſt deſirous, which is worthy of ad<g ref="char:EOLhyphen"/>miration, if we conſider how much that place had like to have ſuffered by the late Prince. They write from the Dutch Fleet hither, that they had beaten the Engliſh, and forced many to run a ſhore, and taken about forty ſhips, but theſe we look upon as meer untruths. By reaſon of the burning of the Town-houſe, the ſeveral Tribunals, ſeats of Juſtice and Magiſtracy<g ref="char:punc">▪</g> ſit in other places of the town for their beſt accomodation.</p>
+                  <p>The States General have granted forth letters of Mart a new unto many, whereby thoſe to whom the ſaid Let<g ref="char:EOLhyphen"/>ters of Mart are granted, are given free and full power, <hi>To fight with, ſeize upon, ſink, burn, and deſtroy, in what place or places ſoever they can or ſhall happen to meet with them, all, or any of the ſhips, or veſſels, whether men of war or Merchant men, and Goods of or belonging to the Com<g ref="char:EOLhyphen"/>mon-wealth of England, or any perſon thereof, comming from thence, or going to any place whatſoever.</hi>
+                  </p>
+                  <p>
+                     <hi>Given at the Hague, Iuly the</hi> 20, 1652.</p>
+                  <p>By this you may ſee what thoughts both Governours and people have of peace with the Engliſh; I ſhall as oft<g ref="char:EOLhyphen"/>en as I may have opportunity offered me, give you the beſt intelligence I can of their proceedings, and remain,</p>
+                  <closer>
+                     <signed>Your aſſured friend, St. Richards</signed> 
+                     <dateline>Hague <date>Iuly 24. ſtil. nov. 1652.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:118416:4"/>
+                  <head>A Letter from France.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SInce the retreat of the Princes forces into the Suburbs of Saint Victor and Marcelle (which they did ſeeing themſelves not able to reſiſt the King till the Arch Du<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es forces come) ſome of the King horſe being come over the bridge at Saint Clow, fell upon ſome of the Princes forragers, and took 200 horſe and ſervants (who were cutting Wheat for their Maſters horſes) together with about as many ſouldiers that were for their Convoy, the Kings being two for one.</p>
+                  <p>The Parliament have declared, that the King is a priſo<g ref="char:EOLhyphen"/>ner to the Queen his mother, and the Cardinal, and that the Duke of Orleans ſhall be the Kings Lieutenant Ge<g ref="char:EOLhyphen"/>neral, and employ the Kings power, and his own, to ſet the King at full liberty. Since which we hear that the King intends to return to St. Denis again, that from thence he may go towards Burgundy, becauſe the Normans re<g ref="char:EOLhyphen"/>fuſed to accept of him, if not without Mazarine and for<g ref="char:EOLhyphen"/>ces; as for the Forces they would not make difficult of as many as there be with him now, being but two thou<g ref="char:EOLhyphen"/>ſand, but as for Mazarine they will have nothing to do with him,</p>
+                  <p>The King ſent to all the Nobility of this Province, and the moſt of their Commons to come together the firſt day of the next moneth, and conſider how the enemies of the Kingdome comes in upon them: As the Spaniards, to nothing elſe but to t<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ir ruine, which if they do not op<g ref="char:EOLhyphen"/>poſe
+<pb n="7" facs="tcp:118416:4"/>in time, they may when it is too late repent it: whe<g ref="char:EOLhyphen"/>ther they will obey or no, I know not yet. The Nor<g ref="char:EOLhyphen"/>mans alſo ſent to his Majeſty, ſignifying, that if he hin<g ref="char:EOLhyphen"/>der their commerce with Paris, that they will abſolute<g ref="char:EOLhyphen"/>ly declare for the Princes. The Prince of Conde is indiſ<g ref="char:EOLhyphen"/>poſed theſe five or ſix days paſt, which yet did not hin<g ref="char:EOLhyphen"/>der him to be preſent at the Aſſembly the laſt Saturday: He was let blood twice, Saturday and Munday.</p>
+                  <p>We hear that the Duke of Elboeuf, taken at Chauny, is out of priſon upon his parol to pay 120000 <hi>li.</hi> Ran<g ref="char:EOLhyphen"/>ſome for the prince of Ligne, taken priſoner by the French in the laſt battel given at Laus. The ſaid prince was ſet at liberty then likewiſe upon his parol to pay the ſaid Ranſome, which was not paid till now:</p>
+                  <p>Both the French and Spaniſh Army are marching one againſt the other, and it is thought within two or three days they will be about Chaulny, the laſt place taken by the Spaniſh Army as before. The Arch Duke hath di<g ref="char:EOLhyphen"/>rected Lorraign to give aſſiſtance to the Spaniſh Army. The Army in our ſuburbs here are diſpoſing to march towards Lagny, Carbeille, Meulun and Meaure, to keep the liberty of the River for this City.</p>
+                  <p>Turens Army is now near Campagne, having power to fight the Spaniards as he ſhall think fit, and having at his departure from St. Denis, promiſed to ruine that Army. The Duke of Guiſe arrived at Bourg near Burdeaux, be<g ref="char:EOLhyphen"/>ing ſet at liberty upon the Letters from prince Conde to the King of Spain. We expect another Aſſembly, where<g ref="char:EOLhyphen"/>by an army ſhall be raiſed in Paris for the princes, and money wherewith they ſhall be maintained, in caſe his Majeſty will not be adviſed by Orleance ſo as to joyn to Paris.</p>
+                  <closer>
+                     <dateline>Paris <date>July 24. 1652.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="8" facs="tcp:118416:5"/>
+            <p> We have received intelligence that above ſeventy ſhips of the Hollanders, attempted three Merchants ſhips in Robinhoods Bay, near Scarbrough, they purſued them cloſe, but two of them run aſhore, one was burned, and then the Dutch ſteered away Northward with all ſpeed. One of our Scouts ſent out to ſea hath returned, and ſaith that he was informed by an Hamburger whom he met, bound for Roan, that upon the North o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> England off Whitby, he the ſaid Hamburger met with the Dutch Fleet, who called him aboard ſome of them, where he re<g ref="char:EOLhyphen"/>mained four hours, their intent was to have gained intel<g ref="char:EOLhyphen"/>ligence from him of the motion of the Engliſh, but he could give them none for that he had not ſeen any of them: He ſaith that that they were in all about 107 ſail, ſixteen whereof are fire-ſhips, ten ſmall Frigats ſome 8 guns, ſome ten a piece, above twenty of them are good firm ſhips, about thirty or forty guns a piece, all the reſt are of middle ſize. About twenty of them coaſting up and down about Southwold have taken one or two ſhips not<g ref="char:EOLhyphen"/>withſtanding the guns of the town played againſt them<g ref="char:punc">▪</g> Zealand provides more for them, but Corn is very dear there, it is ſaid that Wheat is at thirteen ſhillings the Engliſh Buſhel, containing eight gallons, yet are they di<g ref="char:EOLhyphen"/>vided ſome for war, ſome for peace.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
